@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <gradient android:type="linear" android:startColor="#55264aff" android:endColor="#551a1aff" android:angle="135" />
+            <corners android:topLeftRadius="10dp" android:topRightRadius="10dp" android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp" />
+            <item android:name="android:shadowColor">#ccd8eef2</item>
+            <item android:name="android:shadowDx">0</item>
+            <item android:name="android:shadowDy">2</item>
+        </shape>
+    </item>
+    <item  android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <gradient android:type="linear" android:useLevel="true" android:startColor="#ff264aff" android:endColor="#ff1a1aff" android:angle="135" />
+            <corners android:topLeftRadius="10dp" android:topRightRadius="10dp" android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp" />
+            <item android:name="android:shadowColor">#ccd8eef2</item>
+            <item android:name="android:shadowDx">0</item>
+            <item android:name="android:shadowDy">2</item>
+        </shape>
+    </item>
+    <item  android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <gradient android:type="linear" android:useLevel="true" android:startColor="#dd264aff" android:endColor="#dd1a1aff" android:angle="135" />
+            <corners android:topLeftRadius="10dp" android:topRightRadius="10dp" android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp" />
+            <item android:name="android:shadowColor">#ccd8eef2</item>
+            <item android:name="android:shadowDx">0</item>
+            <item android:name="android:shadowDy">2</item>
+        </shape>
+    </item>
+</selector>
+
+
+
+
+
+
+
+
+

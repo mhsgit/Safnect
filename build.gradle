@@ -1,0 +1,33 @@
+buildscript {
+    ext.kotlin_version = "1.6.0"
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "http://lib.gcssloop.com:8081/repository/gcssloop-central/" }
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+        classpath 'com.google.protobuf:protobuf-gradle-plugin:0.9.4'
+
+
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        jcenter()
+        google()
+        maven { url "https://jitpack.io" }
+        // 私有仓库地址
+        maven { url "http://lib.gcssloop.com:8081/repository/gcssloop-central/" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

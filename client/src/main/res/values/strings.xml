@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">client</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="welcome_entry">Get Started</string>
+    <string name="welcome_desc_big">The new era of Web3 wallets</string>
+    <string name="welcome_desc_small">Connecting everyone, everywhere with the MPC wallet</string>
+
+    <string name="secure_fragments">Divide key into secure fragments</string>
+    <string name="secure_fragments_desc">Choose your preferred method for storing key fragments, store in a hardware wallet or share with a member</string>
+    <string name="hardware_wallet_desc">Store in a hardware wallet</string>
+    <string name="share_wallet_desc">Share with a reliable member</string>
+    <string name="not_currently_supported">This feature is not currently supported</string>
+    <string name="copied_hint">Your address has been successfully copied</string>
+    <string name="copied_hash_hint">Your sent Hash has been successfully copied</string>
+
+    <string name="device_list_title">Let\’s set up your hardware wallet</string>
+    <string name="device_list_desc_no1_1">Turn on the device</string>
+    <string name="device_list_desc_no1_2">Connect your device to the power source using a USB cable</string>
+    <string name="device_list_desc_no2_1">Pairing the device</string>
+    <string name="device_list_desc_no2_2">Please make sure your phone Bluetooth is enabled and your hardware wallet is turn on. Stay in the Safnect App and keep your Safnect device nearby.</string>
+    <string name="device_list_desc_no3_1">Follow Device\'s On-Screen Instructions</string>
+    <string name="device_list_desc_no3_2">Interact with your device according to the prompts displayed.</string>
+    <string name="device_list_desc_no3_3">Press the &lt;button to go back.\nPress the &lt;button to proceed.\nPress CC buttons to confirm.</string>
+    <string name="device_list_desc_no4_1">Select “Set up as new device”</string>
+    <string name="please_connect_your_device">Please select the device you want to connect to</string>
+    <string name="device_list_desc_no4_2">Press CC buttons to validate the selection.</string>
+    <string name="searching">Searching…</string>
+    <string name="pair_my_wallet">Pair my wallet</string>
+
+    <string name="bluetooth_turned_on_hint">Bluetooth not turned on, do you want to turn on Bluetooth?</string>
+    <string name="hint">Hint</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="refused_turn_on_bluetooth">You have refused to turn on Bluetooth</string>
+    <string name="rationale_hint">Require Bluetooth permission application</string>
+
+    <string name="account_is_initializing">Account is initializing (1/4)</string>
+    <string name="used_with_safee_app">Your Safnect Wallet is ready to be used with Safnect App</string>
+    <string name="pairing_successful">Pairing Successfully</string>
+    <string name="goto_to_wallet">Go to Wallet</string>
+    <string name="pairing_fail">Pairing Fail</string>
+
+
+    <string name="crypto_asset_label">Choose a crypto asset</string>
+    <string name="account_label">Choose an account</string>
+    <string name="amount_label">Receive amount</string>
+    <string name="available_label">Available</string>
+    <string name="recipient_address_label">Recipient address</string>
+    <string name="network_label">Network</string>
+    <string name="max">MAX</string>
+
+    <string name="continue_btn">Continue</string>
+    <string name="ransfer_confirm">Transfer Confirm</string>
+    <string name="trans_activity_title">Connect to hardware wallet device</string>
+    <string name="transaction_in_progress">Transaction in progress (1/10)</string>
+
+    <string name="trans_item_1">Connect and unlock your wallet device</string>
+    <string name="trans_item_2">Confirm the operation on your device</string>
+    <string name="to_text">To</string>
+    <string name="network_fee">Network fee</string>
+    <string name="total_to_transfer">Total to transfer</string>
+    <string name="transaction_failed">Transaction failed, please try again</string>
+    <string name="transaction_failed_balance_insufficient">Your balance is insufficient</string>
+    <string name="transfer_successfully">Transfer Successfully</string>
+    <string name="view_the_record">View the record</string>
+    <string name="back_to_Wallet">Go to Wallet</string>
+
+    <string name="wait_upgrade">Please wait for upgrade</string>
+    <string name="no_transaction_record">No transaction record</string>
+    <string name="connection_failed_scan_try">Device connection failed. We will rescan the device for you. Please try again later</string>
+    <string name="loading">Loading</string>
+</resources>

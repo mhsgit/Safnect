@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleHeight">44dp</dimen>
+    <dimen name="marginLeft">15dp</dimen>
+
+</resources>

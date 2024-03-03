@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">server</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome_entry">Get Started</string>
+    <string name="welcome_desc_big">The new era of Web3 wallets</string>
+    <string name="welcome_desc_small">Connecting everyone, everywhere with the MPC wallet</string>
+
+    <string name="bluetooth_turned_on_hint">Bluetooth not turned on, do you want to turn on Bluetooth?</string>
+    <string name="hint">Hint</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="refused_turn_on_bluetooth">You have refused to turn on Bluetooth</string>
+    <string name="rationale_hint">Require Bluetooth permission application</string>
+    <string name="account_is_initializing">Account is initializing (1/4)</string>
+    <string name="transaction_in_progress">Transaction in progress (1/10)</string>
+    <string name="agree_to_dkg">Agree to DKG</string>
+</resources>

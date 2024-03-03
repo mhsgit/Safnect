@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_0b0bd8">#0B0BD8</color>
+    <color name="color_1f2021">#1F2021</color>
+    <color name="color_ff1f2021">#FF1F2021</color>
+    <color name="color_ff616366">#FF616366</color>
+    <color name="color_ff919599">#FF919599</color>
+    <color name="color_eff0f2">#EFF0F2</color>
+    <color name="color_ff264aff">#FF264AFF</color>
+    <color name="color_dae0e5">#DAE0E5</color>
+    <color name="color_ff0b0bd8">#FF0B0BD8</color>
+    <color name="color_ff198bff">#FF198BFF</color>
+    <color name="color_ffd8550b">#FFD8550B</color>
+    <color name="color_ffff4050">#FFFF4050</color>
+    <color name="color_ff2446f1">#FF2446F1</color>
+    <color name="color_ffdee2e5">#FFDEE2E5</color>
+    <color name="color_fff2f6fa">#FFF2F6FA</color>
+    <color name="color_common_page_bg">@color/color_eff0f2</color>
+    <color name="color_ffdae0e5">#FFDAE0E5</color>
+    <color name="color_line">@color/color_ffdae0e5</color>
+    <color name="color_ffa500">#FFA500</color>
+</resources>
